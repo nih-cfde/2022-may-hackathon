@@ -35,4 +35,5 @@ The Common Fund’s Stimulating Peripheral Activity to Relieve Conditions (SPARC
 | Monday | 5/9/22 | 12:30 - 1:30 pm PT | CFDE Portal Demo | Jessica Lumian |
 | Tuesday | 5/10/22 | 9 - 11 am PT | iHMP Data Exploration | Titus Brown |
 | Wednesday | 5/11/22 | 9 am - 12 pm PT | Data Viz in R with GTEx Data | Rayna Harris |
-| Friday | 4/29/22 | 9 - 11 am PT | Closing Session  | All groups |
+| Thursday | 5/12/22 | - | - | - |
+| Friday | 5/13/22 | 9 - 11 am PT | Closing Session  | All groups |
