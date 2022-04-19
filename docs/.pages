@@ -1,2 +1,7 @@
 arrange:
     - index.md
+    - about.md
+    - engage.md
+    - CODEOFCONDUCT.md
+    - CONTRIBUTING.md
+    - LICENSE.md
