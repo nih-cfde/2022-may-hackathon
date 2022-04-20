@@ -22,6 +22,10 @@ This session will involve getting Human Microbiome Project (HMP) data off of the
 
 This session will showcase how R can be used for a variety of data visualizations with Gene Tissue Expression (GTEx) data.
 
+### Stimulating Peripheral Activity to Relieve Conditions, 5/11
+
+This session will provide information on access to SPARC resources via the SPARC portal and associated APIs.
+
 ### Kids First and Human BioMolecular Atlas Program
 
 This session will teach participants how to access and use federated CFDE graph data though the Human BioMolecular Atlas Program-Kids First collaboration through API access.
