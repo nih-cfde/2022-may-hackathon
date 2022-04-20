@@ -12,6 +12,8 @@ This event will feature sessions from the following groups:
 
 The goal of the Gabriella Miller Kids First Pediatric Research Program (Kids First) is to help researchers uncover new insights into the biology of childhood cancer and structural birth defects, including the discovery of shared genetic pathways between these disorders. Children with birth defects have an increased risk of developing childhood cancer. This suggests there are shared genetic pathways underlying some types of childhood cancer and structural birth defects. Analyzing genetic sequence data from children with childhood cancer and structural birth defects together may lead to the discovery of new genetic pathways.
 
+KF will host a session on accessing and using federated CFDE graph data through the Kids First-Human BioMolecular Atlas Program graph database with an API.
+
 ### Stimulating Peripheral Activity to Relieve Conditions (SPARC)
 
 The Common Fund’s Stimulating Peripheral Activity to Relieve Conditions (SPARC) program accelerates development of therapeutic devices that modulate electrical activity in nerves to improve organ function. This therapeutic strategy, also known as “bioelectronic medicine,” could offer new treatment options for diverse diseases and conditions such as hypertension, heart failure, gastrointestinal disorders, and more.
