@@ -38,7 +38,7 @@ The CFDE-CC will host the following events:
 | Monday | 5/9/22 | 1 - 2 pm PT | CFDE Portal Demo | Dr. Jessica Lumian |
 | Tuesday | 5/10/22 | 9 - 11 am PT | iHMP Data Exploration | Dr. Titus Brown |
 | Tuesday | 5/10/22 | 1 - 3 pm PT | _Details coming soon_ |  |
-| Wednesday | 5/11/22 | 9 am - 12 pm PT | Data Harmonization and Visualization in R | Dr. Rayna Harris |
+| Wednesday | 5/11/22 | 9 am - 11 pm PT | Data Harmonization and Visualization in R | Dr. Rayna Harris |
 | Wednesday | 5/11/22 | 1 - 3 pm PT | Exploring and using SPARC data on end organ - autonomic nervous system connectivity | Dr. Jeffrey Grethe |
 | Thursday | 5/12/22 | 9 - 11 am PT | _Details coming soon_ |   |
 | Thursday | 5/12/22 | 1 - 3 pm PT | _Details coming soon_ |   |
