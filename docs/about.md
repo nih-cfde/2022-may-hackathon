@@ -18,9 +18,9 @@ The Common Fund Data Ecosystem (CFDE) Portal Demonstration on Monday, May 9 will
 
 This session will involve getting Human Microbiome Project (HMP) data off of the CFDE Portal and working in the cloud using Amazon Web Services. Participants will be provided with an Amazon Web Services account and do basic bioinformatics analysis with sequencing data.
 
-### Data Visualization in R with GTEx Data: Lesson, 5/11
+### Introduction to R for RNA Sequencing Analysis: Lesson, 5/11
 
-This session will showcase how R can be used for a variety of data visualizations with Gene Tissue Expression (GTEx) data.
+RNA-Sequencing (RNA-Seq) is a popular method for determining the presence and quantity of RNA in biological samples. In this 3 hour workshop, we will use R to explore publicly-available RNA-Seq data from the Gene Expression Tissue Project (GTEx). Attendees will be introduced to the R syntax, variables, functions, packages, and data structures common to RNA-Seq projects. We will use RStudio to import, tidy, transform, and visualize RNA-Seq count data. Attendees will learn tips and tricks for making the processes of data wrangling and data harmonization more manageable. This workshop will not cover cloud-based workflows for processing RNA-seq reads or statistics and modeling because these topics are covered in our RNA-Seq Concepts and RNA-Seq in the Cloud workshops. Rather, this workshop will focus on general R concepts applied to RNA-Seq data. Familiarity with R is not required but would be useful.
 
 ### Stimulating Peripheral Activity to Relieve Conditions, 5/11
 
