@@ -37,10 +37,10 @@ The CFDE-CC will host the following events:
 | Monday | 5/9/22 | 9 - 11 am PT | Welcome + Introduction to Data Sets | All groups |
 | Monday | 5/9/22 | 1 - 2 pm PT | CFDE Portal Demo | Dr. Jessica Lumian |
 | Tuesday | 5/10/22 | 9 - 11 am PT | iHMP Data Exploration | Dr. Titus Brown |
-| Tuesday | 5/10/22 | 1 - 3 pm PT | _Details coming soon_ |  |
+| Tuesday | 5/10/22 | 1 - 3 pm PT | _Using APIs to Access KidsFirst iMHP Data_ |  |
 | Wednesday | 5/11/22 | 9 am - 12 pm PT | Introduction to R for RNA Sequencing Analysis | Dr. Rayna Harris |
 | Wednesday | 5/11/22 | 1 - 3 pm PT | Exploring and using SPARC data on end organ - autonomic nervous system connectivity | Dr. Jeffrey Grethe |
-| Thursday | 5/12/22 | 9 - 11 am PT | _Details coming soon_ |   |
-| Thursday | 5/12/22 | 1 - 3 pm PT | _Details coming soon_ |   |
+| Thursday | 5/12/22 | 9 - 11 am PT | _Social Co-working_ |   |
+| Thursday | 5/12/22 | 1 - 3 pm PT | _Social Co-working_ |   |
 | Friday | 5/13/22 | 9 - 11 am PT | Closing Session  | All groups |
 
