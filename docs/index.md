@@ -4,6 +4,20 @@ We are pleased to announce that the NIH Common Fund Data Ecosystem will be hosti
 
 **To register, [sign up here](https://www.nih-cfde.org/events/may-2022-hackathon/).**
 
+## Schedule
+
+| Day | Date | Time | Topic | Links | 
+| --- | --- | --- | --- | --- |
+| Monday | 5/9/22 | 9 - 11 am PT | Welcome + Introduction to Data Sets | [Issue #12][12] |
+| Monday | 5/9/22 | 1 - 2 pm PT | CFDE Portal Demo | [Issue #11][11] |
+| Tuesday | 5/10/22 | 9 - 11 am PT | iHMP Data Exploration | [Issue #10][10] |
+| Tuesday | 5/10/22 | 1 - 3 pm PT | Using APIs to Access KidsFirst Data |  [Issue #9][9] |
+| Wednesday | 5/11/22 | 9 am - 12 pm PT | Introduction to R for RNA Sequencing Analysis with GTEx Data | [Issue #8][8] |
+| Wednesday | 5/11/22 | 1 - 3 pm PT | Exploring SPARC data on organ - nervous system connectivity | [Issue #7][7] |
+| Thursday | 5/12/22 | 9 - 11 am PT | Social Co-working |  [Issue #6][6] |
+| Thursday | 5/12/22 | 1 - 3 pm PT | Social Co-working | [Issue #6][6]  |
+| Friday | 5/13/22 | 9 - 11 am PT | Closing Session  | [Issue #5][5] |
+
 ## Participating Groups
 
 This event will feature sessions from the following groups:
@@ -30,17 +44,12 @@ The CFDE-CC will host the following events:
 - Access and working with Human Microbiome Project Data 
 - Data Visualization in R using Genotype-Tissue Expression (GTEx) Data
 
-## Sessions and Schedule
 
-| Day | Date | Time | Topic | Host |
-| --- | --- | --- | --- | --- |
-| Monday | 5/9/22 | 9 - 11 am PT | Welcome + Introduction to Data Sets | All groups |
-| Monday | 5/9/22 | 1 - 2 pm PT | CFDE Portal Demo | Dr. Jessica Lumian |
-| Tuesday | 5/10/22 | 9 - 11 am PT | iHMP Data Exploration | Dr. Titus Brown |
-| Tuesday | 5/10/22 | 1 - 3 pm PT | Using APIs to Access KidsFirst Data |  |
-| Wednesday | 5/11/22 | 9 am - 12 pm PT | Introduction to R for RNA Sequencing Analysis with GTEx Data | Dr. Rayna Harris |
-| Wednesday | 5/11/22 | 1 - 3 pm PT | Exploring and using SPARC data on end organ - autonomic nervous system connectivity | Dr. Jeffrey Grethe |
-| Thursday | 5/12/22 | 9 - 11 am PT | Social Co-working |   |
-| Thursday | 5/12/22 | 1 - 3 pm PT | Social Co-working |   |
-| Friday | 5/13/22 | 9 - 11 am PT | Closing Session  | All groups |
-
+[12]: https://github.com/nih-cfde/2022-may-hackathon/issues/12
+[11]: https://github.com/nih-cfde/2022-may-hackathon/issues/11
+[10]: https://github.com/nih-cfde/2022-may-hackathon/issues/10
+[9]: https://github.com/nih-cfde/2022-may-hackathon/issues/9
+[8]: https://github.com/nih-cfde/2022-may-hackathon/issues/8
+[7]: https://github.com/nih-cfde/2022-may-hackathon/issues/7
+[6]: https://github.com/nih-cfde/2022-may-hackathon/issues/6
+[5]: https://github.com/nih-cfde/2022-may-hackathon/issues/5
