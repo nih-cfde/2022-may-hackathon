@@ -1,5 +1,15 @@
 # Details on Each Session
 
+### Welcome and Intructionss: 5/9
+
+* 9:00 am - 9:20 am: Opening Remarks (Titus)
+* 9:20 am - 9:30 am: Portal Session Overview (Jessica)
+* 9:30 am - 9:40 am: HMP Session Intro (Titus)
+* 9:40 am - 9:50 am: KF Session Intro (Deanne or Jonathan)
+* 9:50 am - 10:00 am: RNAseq with GTEx data Session Intro (Rayna)
+* 10:00 am - 10:10 am: SPARC Session Intro (Jeff or Maryann)
+* 10:10 am - 10:30 am: Logistics and Closing Remarks
+
 ### CFDE Portal Demonstration: Demonstration, 5/9
 
 The (Common Fund Data Ecosystem Coordinating Center) CFDE-CC supports efforts to make Common Fund data sets more findable, accessible, interoperable, and reusable (FAIR) for the scientific community through collaboration, end-user training, and data set sustainability. The CFDE-CC manages and organizes CFDE activities, engage with participating Common Fund programs, connect with user communities, support training, develop tools and standards, and provide technical expertise to Common Fund programs. 
