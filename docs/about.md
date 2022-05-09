@@ -1,6 +1,6 @@
 # Details on Each Session
 
-### Welcome and Intructionss: 5/9
+### Welcome and Introductions: 5/9
 
 * 9:00 am - 9:20 am: Opening Remarks (Titus)
 * 9:20 am - 9:30 am: Portal Session Overview (Jessica)
