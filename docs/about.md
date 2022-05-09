@@ -5,9 +5,9 @@
 * 9:00 am - 9:20 am: Opening Remarks (Titus)
 * 9:20 am - 9:30 am: Portal Session Overview (Jessica)
 * 9:30 am - 9:40 am: HMP Session Intro (Titus)
-* 9:40 am - 9:50 am: KF Session Intro (Deanne or Jonathan)
+* 9:40 am - 9:50 am: KF Session Intro (Deanne and Jonathan)
 * 9:50 am - 10:00 am: RNAseq with GTEx data Session Intro (Rayna)
-* 10:00 am - 10:10 am: SPARC Session Intro (Jeff or Maryann)
+* 10:00 am - 10:10 am: SPARC Session Intro (Jeff)
 * 10:10 am - 10:30 am: Logistics and Closing Remarks
 
 ### CFDE Portal Demonstration: Demonstration, 5/9
