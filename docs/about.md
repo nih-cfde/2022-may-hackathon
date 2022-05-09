@@ -1,15 +1,5 @@
 # Details on Each Session
 
-## Session Classifications
-
-Sessions for this event will be labeled demos, lessons, or hackathons so that you as a participant know what to expect going into an event.
-
-**Demos** will be webinar demonstrations with minimal participant activity. There will be time for participants to ask questions, but there is no expectation to follow along with the presenter.
-
-**Lessons** will be self-contained workshop sessions. Participants will be given lesson materials to follow along with instruction. If there are specific software recommendations for the workshop, they will be available on this page.
-
-**Hackathon** sessions will have minimal instruction and allow participants to work through data or search tools related to the session topic.
-
 ### CFDE Portal Demonstration: Demonstration, 5/9
 
 The (Common Fund Data Ecosystem Coordinating Center) CFDE-CC supports efforts to make Common Fund data sets more findable, accessible, interoperable, and reusable (FAIR) for the scientific community through collaboration, end-user training, and data set sustainability. The CFDE-CC manages and organizes CFDE activities, engage with participating Common Fund programs, connect with user communities, support training, develop tools and standards, and provide technical expertise to Common Fund programs. 
