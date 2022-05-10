@@ -26,7 +26,7 @@ This session will involve getting Human Microbiome Project (HMP) data off of the
 
 The goal of the Gabriella Miller Kids First Pediatric Research Program (Kids First) is to help researchers uncover new insights into the biology of childhood cancer and structural birth defects, including the discovery of shared genetic pathways between these disorders. Children with birth defects have an increased risk of developing childhood cancer. This suggests there are shared genetic pathways underlying some types of childhood cancer and structural birth defects. Analyzing genetic sequence data from children with childhood cancer and structural birth defects together may lead to the discovery of new genetic pathways.
 
-This session will teach participants how to access and use federated CFDE graph data though the Human BioMolecular Atlas Program-Kids First collaboration through API access.
+This session will teach participants how to access and use federated CFDE graph data though the Human BioMolecular Atlas Program-Kids First collaboration.
 
 ### Introduction to R for RNA Sequencing Analysis: Lesson, 5/11
 
