@@ -11,7 +11,7 @@ We are pleased to announce that the NIH Common Fund Data Ecosystem will be hosti
 | Monday | 5/9/22 | 9 - 11 am PT | Welcome + Introduction to Data Sets | [Issue #12][12] |
 | Monday | 5/9/22 | 1 - 2 pm PT | CFDE Portal Demo | [Issue #11][11] |
 | Tuesday | 5/10/22 | 9 - 11 am PT | iHMP Data Exploration | [Issue #10][10] |
-| Tuesday | 5/10/22 | 1 - 3 pm PT | Using APIs to Access KidsFirst Data |  [Issue #9][9] |
+| Tuesday | 5/10/22 | 1 - 3 pm PT | Knowledge Graph to access and analyze Common Fund data from KidsFirst and HuBMAP |  [Issue #9][9] |
 | Wednesday | 5/11/22 | 9 am - 12 pm PT | Introduction to R for RNA Sequencing Analysis with GTEx Data | [Issue #8][8] |
 | Wednesday | 5/11/22 | 1 - 3 pm PT | Exploring SPARC data on organ - nervous system connectivity | [Issue #7][7] |
 | Thursday | 5/12/22 | 9 - 11 am PT | Social Co-working |  [Issue #6][6] |
