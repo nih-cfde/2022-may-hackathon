@@ -1,22 +1,23 @@
 # The May 2022 NIH Common Fund Data Ecosystem Hackathon
 
-We are pleased to announce that the NIH Common Fund Data Ecosystem will be hosting a hackathon on NIH Common Fund data sets from **May 9 - 13, 2022**. This hackathon has both synchronous and asynchronous work, with concentrated hackathon sessions on specific data sets. Participants can attend whichever hackathon sessions they are interested in. Participants can also form working groups and tackle issues throughout the week organized in a GitHub repository. There is no minimum work requirement, all are welcome to participate as much or as little as schedules and interest allow!
-
-**To register, [sign up here](https://www.nih-cfde.org/events/may-2022-hackathon/).**
+The NIH Common Fund Data Ecosystem hosted a hackathon on NIH Common Fund data sets from **May 9 - 13, 2022**. This hackathon had both synchronous and asynchronous work, with concentrated hackathon sessions on specific data sets. 
 
 ## Schedule
 
-| Day | Date | Time | Topic | Links | 
+| Day | Time | Topic | Videos | Issue |
 | --- | --- | --- | --- | --- |
-| Monday | 5/9/22 | 9 - 11 am PT | Welcome + Introduction to Data Sets | [Issue #12][12] |
-| Monday | 5/9/22 | 1 - 2 pm PT | CFDE Portal Demo | [Issue #11][11] |
-| Tuesday | 5/10/22 | 9 - 11 am PT | iHMP Data Exploration | [Issue #10][10] |
-| Tuesday | 5/10/22 | 1 - 3 pm PT | Knowledge Graph to access and analyze Common Fund data from KidsFirst and HuBMAP |  [Issue #9][9] |
-| Wednesday | 5/11/22 | 9 am - 12 pm PT | Introduction to R for RNA Sequencing Analysis with GTEx Data | [Issue #8][8] |
-| Wednesday | 5/11/22 | 1 - 3 pm PT | Exploring SPARC data on organ - nervous system connectivity | [Issue #7][7] |
-| Thursday | 5/12/22 | 9 - 11 am PT | Social Co-working |  [Issue #6][6] |
-| Thursday | 5/12/22 | 1 - 3 pm PT | Social Co-working | [Issue #6][6]  |
-| Friday | 5/13/22 | 9 - 11 am PT | Closing Session  | [Issue #5][5] |
+| Monday | 9 - 11 am PT | Welcome + Introduction to Data Sets | [Recording](https://video.ucdavis.edu/media/Hackathon+Day+One+-+Welcome+and+Introductions/1_qmmpzu62) |  [Issue #12][12] |
+| Monday | 1 - 2 pm PT | CFDE Portal Demo | [Recording](https://video.ucdavis.edu/media/CFDE+May+Hackathon+-+Portal+Demo/1_isfmcnh8) | [Issue #11][11] |
+| Tuesday | 9 - 11 am PT | iHMP Data Exploration | [Recording](https://video.ucdavis.edu/media/CFDE+May+Hackathon+-+iHMP+Exploration/1_0idhsq43) | [Issue #10][10] |
+| Tuesday | 1 - 3 pm PT | Knowledge Graph to access and analyze Common Fund data from KidsFirst and HuBMAP | [Recording](https://video.ucdavis.edu/media/CFDE+May+Hackathon+-+Knowledge+Graph/1_blpnnnz8) | [Issue #9][9] |
+| Wednesday | 9 am - 12 pm PT | Introduction to R for RNA Sequencing Analysis with GTEx Data | [Recording](https://video.ucdavis.edu/media/CFDE+May+Hackathon+-+Intro+to+R+for+RNA-Seq/1_61sjku7o) | [Issue #8][8] |
+| Wednesday | 1 - 3 pm PT | Exploring SPARC data on organ - nervous system connectivity | [Recording](https://video.ucdavis.edu/media/CFDE+May+Hackathon+-+SPARC+Exploration/1_vt6hfw62) | [Issue #7][7] |
+| Thursday | 9 - 11 am PT | Social Co-working |   | [Issue #6][6] |
+| Thursday | 1 - 3 pm PT | Social Co-working |   | [Issue #6][6]  |
+| Friday | 9 - 11 am PT | Closing Session  |   | [Issue #5][5] |
+
+
+https://github.com/dib-lab/cfde/issues/534#:~:text=Welcome%20and%20Introductions-,Kaltura,-%2D%2D
 
 ## Participating Groups
 
