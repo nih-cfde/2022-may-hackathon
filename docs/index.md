@@ -17,8 +17,6 @@ The NIH Common Fund Data Ecosystem hosted a hackathon on NIH Common Fund data se
 | Friday | 9 - 11 am PT | Closing Session  |   | [Issue #5][5] |
 
 
-https://github.com/dib-lab/cfde/issues/534#:~:text=Welcome%20and%20Introductions-,Kaltura,-%2D%2D
-
 ## Participating Groups
 
 This event will feature sessions from the following groups:
